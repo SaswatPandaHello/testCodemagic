@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499087728198",
+    "project_id": "white-artwork-226605",
+    "storage_bucket": "white-artwork-226605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499087728198:android:c3b170d12bb634175af447",
+        "android_client_info": {
+          "package_name": "com.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499087728198-3kiajqbcvdg73e2nf62h8mofot87jnc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuQkW26B9HXWyDe9M18E9sLYGelHxbUKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499087728198-3kiajqbcvdg73e2nf62h8mofot87jnc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
